@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['hostname'] = 'sit-indonesiapower.rhcloud.com';
+$db['default']['username'] = 'adminMPugpFP';
+$db['default']['password'] = '6Kclg_Pdcy85';
 $db['default']['database'] = 'db_sit';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
